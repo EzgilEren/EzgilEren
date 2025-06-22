@@ -32,23 +32,27 @@ Welcome to my GitHub profile! I'm a passionate mobile developer specializing in 
   ---
 
 ## 🌟 **Featured Projects**
-1. [**KotlinBaseStructor**](https://github.com/EzgilEren/KotlinBaseStructor):  
+1. [**PlantIdentifyApp**](https://github.com/EzgilEren/PlantIdentifyApp):
+   A clean architecture-based plant identification app with an intuitive UI and offline-first support. 
+   - **Technologies**: Kotlin, MVVM, Clean Architecture, Retrofit, Room, Hilt, Navigation Component, StateFlow, Coroutines
+
+2.  [**KotlinBaseStructor**](https://github.com/EzgilEren/KotlinBaseStructor):  
    A modular Android template with CI/CD and offline-first capabilities.  
    - **Technologies**: Kotlin, Jetpack Compose, Hilt, Room, CI/CD.  
 
-2. [**FlixMovieDbVerse**](https://github.com/EzgilEren/FlixMovieDbVerse):  
+3. [**FlixMovieDbVerse**](https://github.com/EzgilEren/FlixMovieDbVerse):  
    A feature-rich movie database app with TMDb API integration.  
    - **Technologies**: Kotlin, Jetpack Compose, Retrofit, Firebase.  
 
-3. [**CryptoTracker**](https://github.com/EzgilEren/CryptoTracker):  
+4. [**CryptoTracker**](https://github.com/EzgilEren/CryptoTracker):  
    A real-time cryptocurrency tracking app with modern UI.  
    - **Technologies**: Jetpack Compose, MVVM, Hilt, Retrofit.  
 
-4. [**WeatherApp**](https://github.com/EzgilEren/WeatherApp):  
+5. [**WeatherApp**](https://github.com/EzgilEren/WeatherApp):  
    An app for real-time weather updates with dynamic UI.  
    - **Technologies**: Kotlin, Jetpack Compose, Retrofit, API integration.  
 
-5. [**CountriesApp**](https://github.com/EzgilEren/CountriesApp):  
+6. [**CountriesApp**](https://github.com/EzgilEren/CountriesApp):  
    An app showcasing country information with interactive navigation.  
    - **Technologies**: Jetpack Navigation, MVVM, LiveData.  
 
